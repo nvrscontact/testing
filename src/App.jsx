@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-<h1>Hola desde main</h1>
-
+<h1>Hola desde rama conflicto</h1>
+<h1>Hola desde main correcto</h1>
     </>
   )
 }
